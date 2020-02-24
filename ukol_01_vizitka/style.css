@@ -1,0 +1,28 @@
+h1 {
+    color: grey;
+    background-color: goldenrod;
+}
+
+h2 {
+    color:goldenrod;
+}
+ 
+p {
+    background-color: rgb(243, 247, 240);
+}
+ 
+a {
+    color: blueviolet;
+}
+body {
+    font-family: 'Ubuntu';
+    color: grey;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+}
+img {
+    width: 100px;
+    float: left;
+    
+  }
